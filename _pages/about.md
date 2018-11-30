@@ -12,6 +12,6 @@ I am a PhD student in the Department of Psychology at Yale University, where I p
 
 My research utilizes behavioral experiments, neuroimaging, and computational modelling to study how **perceive** other minds and how we **interact** with them.
 
-You can learn more about my published research [here](https://carlsonrw.github.io/publications/).
+You can learn more about my research [here](https://carlsonrw.github.io/publications/).
 
 
