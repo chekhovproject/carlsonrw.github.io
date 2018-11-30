@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan W. Carlson"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Department of Psychology, Yale University"
   employer         :
