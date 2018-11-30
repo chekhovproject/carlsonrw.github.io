@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Yale working primarily with Dr. Molly Crockett. I received my BA in Psychology from Simon Fraser University in Canada, and then worked as a full-time RA in Jamil Zaki's lab at Stanford University. 
+I am a PhD student in the Department of Psychology at Yale University, where I primarily work with Dr. Molly Crockett. I received my BA in Psychology from Simon Fraser University in Canada, and then worked in Jamil Zaki's lab at Stanford University. 
 
 My research utilizes behavioral experiments and neuroimaging to study social perception and social decision-making.
 
