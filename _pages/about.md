@@ -12,6 +12,6 @@ I am a PhD student at Yale working primarily with Dr. Molly Crockett. I received
 
 My research utilizes behavioral experiments and neuroimaging to study social perception and social decision-making.
 
-You can find my publications [here](https://carlsonrw.github.io/publications/) 
+You can learn more about my published research [here](https://carlsonrw.github.io/publications/).
 
 
