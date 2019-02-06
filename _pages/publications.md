@@ -32,4 +32,7 @@ Carlson, R. W., Oud, B., Marechal, M., Fehr, E., & Crockett, M. J. (under review
  
 <p>
 Carlson, R. W., & Zaki, J. (in prep). <strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.
+ <a href="https://psyarxiv.com/sa6q8/">[Link]</a>
 </p>
+
+
