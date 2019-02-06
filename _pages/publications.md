@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Preprints<br/>
+### <u>Preprints</u><br/>
 <p>
  Carlson, R. W., & Zaki, J.<br/> 
  <strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.<br/>  
