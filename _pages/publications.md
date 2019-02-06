@@ -4,13 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<span style="font-family: 'Calibri Light'">
+
 <p>
 Carlson, R. W., Aknin, L. B., & Liotti, M. (2016). <strong>When is giving an impulse? An ERP investigation of intuitive prosocial behavior</strong>. <em>Social Cognitive and Affective Neuroscience</em>.
 <a href="https://academic.oup.com/scan/article/11/7/1121/1753464">[Link]</a>
 </p>
 
 <p>
-Carlson, R. W.</strong>, & Zaki, J. (2018). <strong>Good deeds gone bad: Lay theories of altruism and selfishness</strong>. <em>Journal of Experimental Social Psychology</em>.
+Carlson, R. W., & Zaki, J. (2018). <strong>Good deeds gone bad: Lay theories of altruism and selfishness</strong>. <em>Journal of Experimental Social Psychology</em>.
 <a href="http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true">[PDF]</a>
 </p>
 
@@ -32,5 +34,5 @@ Carlson, R. W.</strong>, & Zaki, J. (2018). <strong>Good deeds gone bad: Lay the
 <p>
   Carlson, R. W., & Zaki, J. (in prep). <strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.
 </p>
-  
+ </span>
   
