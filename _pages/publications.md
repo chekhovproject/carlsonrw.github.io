@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### <u>Preprints</u><br/>
+### __Preprints__<br/>
 <p>
  Carlson, R. W., & Zaki, J.<br/> 
  <strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.<br/>  
@@ -17,7 +17,7 @@ Carlson, R. W., Oud, B., Marechal, M., Fehr, E., & Crockett, M. J.<br/>
 <a href="https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf">[PDF]</a>
 </p>
 
-### <u>2018</u><br/>
+### __2018__<br/>
  <p>
 Carlson, R. W., & Crockett, M. J.<br/> 
 <strong>The lateral prefrontal cortex and moral goal pursuit</strong>.<br/> 
@@ -39,7 +39,7 @@ Carlson, R. W., & Zaki, J.<br/>
 <a href="http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true">[PDF]</a>
 </p>
 
-### <u>2016</u><br/>
+### <u>__2016__<br/>
 <p>
 Carlson, R. W., Aknin, L. B., & Liotti, M.<br/> 
  <strong>When is giving an impulse? An ERP investigation of intuitive prosocial behavior</strong>.<br/> 
