@@ -12,7 +12,7 @@ Carlson, R. W., Aknin, L. B., & Liotti, M. (2016). <strong>When is giving an imp
 </p>
 
 <p>
-Carlson, R. W.</strong>, & Zaki, J. (2018). Good deeds gone bad: Lay theories of altruism and selfishness. <em>Journal of Experimental Social Psychology</em>.
+Carlson, R. W.</strong>, & Zaki, J. (2018). <strong>Good deeds gone bad: Lay theories of altruism and selfishness</strong>. <em>Journal of Experimental Social Psychology</em>.
 <a href="http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true">[PDF]</a>
 </p>
 
