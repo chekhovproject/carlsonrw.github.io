@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-family: 'Calibri Light'">
 
 <p>
 Carlson, R. W., Aknin, L. B., & Liotti, M. (2016). <strong>When is giving an impulse? An ERP investigation of intuitive prosocial behavior</strong>. <em>Social Cognitive and Affective Neuroscience</em>.
@@ -34,5 +33,3 @@ Carlson, R. W., & Zaki, J. (2018). <strong>Good deeds gone bad: Lay theories of 
 <p>
   Carlson, R. W., & Zaki, J. (in prep). <strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.
 </p>
- </span>
-  
