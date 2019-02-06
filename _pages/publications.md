@@ -21,6 +21,12 @@ author_profile: true
 <a href="http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true">[PDF]</a>
 </p>
   
+ <p>
+  <strong>Carlson, R. W.</strong>, & Crockett, M. J. (2018). The lateral prefrontal cortex and moral goal pursuit. <em>Current Opinion in Psychology</em>.
+<a href="https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf">[PDF]</a>
+</p> 
+
+  
 <p>
   <strong>Carlson, R. W.</strong>, Oud, B., Marechal, M., Fehr, E., & Crockett, M. J. (under review). Motivated misremembering: Selfish decisions are more generous in hindsight.
 <a href="https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf">[Preprint]</a>
