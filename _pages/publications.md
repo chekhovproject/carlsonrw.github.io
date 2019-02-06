@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<strong>Publications</strong>
-  
 <p>
 Carlson, R. W., Aknin, L. B., & Liotti, M. (2016). <strong>When is giving an impulse? An ERP investigation of intuitive prosocial behavior</strong>. <em>Social Cognitive and Affective Neuroscience</em>.
 <a href="https://academic.oup.com/scan/article/11/7/1121/1753464">[Link]</a>
