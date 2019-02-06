@@ -22,7 +22,7 @@ author_profile: true
 </p>
   
 <p>
-  <strong>Carlson, R. W.</strong>, Oud, B., Marechal, M., Fehr, E., & Crockett, M. J. (under review). Selfish decisions are more generous in hindsight.
+  <strong>Carlson, R. W.</strong>, Oud, B., Marechal, M., Fehr, E., & Crockett, M. J. (under review). Motivated misremembering: Selfish decisions are more generous in hindsight.
 <a href="https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf">[Preprint]</a>
 </p>
   
