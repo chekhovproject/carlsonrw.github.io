@@ -16,21 +16,21 @@ RW Carlson, B Oud, M Maréchal, E Fehr & MJ Crockett
 ### __2018__  
 
 RW Carlson & MJ Crockett
-[**The lateral prefrontal cortex and moral goal pursuit**.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf)
+[**The lateral prefrontal cortex and moral goal pursuit**.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf). 
 *Current Opinion in Psychology*  
 
 SA Morelli, YC Leong, RW Carlson, M Kullar & J Zaki
-[**Neural detection of socially valued community members**.](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true)
+[**Neural detection of socially valued community members**.](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true). 
 *Proceedings of the National Academy of Sciences*  
 
 RW Carlson & J Zaki
-[**Good deeds gone bad: Lay theories of altruism and selfishness**.](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true)
+[**Good deeds gone bad: Lay theories of altruism and selfishness**.](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true). 
 *Journal of Experimental Social Psychology*  
 
 ### __2016__  
 
 RW Carlson, LB Aknin & M Liotti
-[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464)
+[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464). 
 *Social Cognitive and Affective Neuroscience*
 
 
