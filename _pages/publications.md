@@ -8,7 +8,7 @@ author_profile: true
 ### __Preprints__<br/>
 <p>
  RW Carlson & J Zaki<br/> 
- <a href="https://psyarxiv.com/sa6q8/"><strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.</a>
+ <a href="https://www.researchgate.net/profile/Ryan_Carlson4/publication/330913024_Belief_in_altruistic_motives_predicts_prosocial_actions_and_inferences/links/5c5b37e1299bf1d14cb1876a/Belief-in-altruistic-motives-predicts-prosocial-actions-and-inferences.pdf"><strong>Belief in altruistic motives predicts prosocial actions and inferences</strong>.</a>
 </p>
 
 <p>
