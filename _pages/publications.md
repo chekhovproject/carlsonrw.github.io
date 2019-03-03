@@ -14,19 +14,19 @@ RW Carlson, B Oud, M Maréchal, E Fehr & MJ Crockett
 
 ###### __2018__  
  
-[**The lateral prefrontal cortex and moral goal pursuit**.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf)  
-RW Carlson & MJ Crockett | *Current Opinion in Psychology*  
+[**The lateral prefrontal cortex and moral goal pursuit**.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf)  *Current Opinion in Psychology*  
+RW Carlson & MJ Crockett
 
-[**Neural detection of socially valued community members**.](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true)  
-SA Morelli, YC Leong, RW Carlson, M Kullar & J Zaki | *PNAS*  
+[**Neural detection of socially valued community members**.](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true)  *PNAS*  
+SA Morelli, YC Leong, RW Carlson, M Kullar & J Zaki
  
-[**Good deeds gone bad: Lay theories of altruism and selfishness**.](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true)  
-RW Carlson & J Zaki | *Journal of Experimental Social Psychology*  
+[**Good deeds gone bad: Lay theories of altruism and selfishness**.](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true)  *Journal of Experimental Social Psychology*
+RW Carlson & J Zaki  
 
 ###### __2016__  
  
-[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464)  
-RW Carlson, LB Aknin & M Liotti | *Social Cognitive and Affective Neuroscience*
+[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464)  *Social Cognitive and Affective Neuroscience*
+RW Carlson, LB Aknin & M Liotti 
 
 
 
