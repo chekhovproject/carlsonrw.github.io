@@ -6,4 +6,4 @@ author_profile: true
 ---
 This page is under construction.  
 
-![](waves.jpg)
+![waves](waves.jpg)
