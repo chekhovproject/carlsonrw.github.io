@@ -6,4 +6,7 @@ main:
   - title: "CV"
     url: https://carlsonrw.github.io/_pages/Carlson_CV.pdf
     
+  - title: "Research"
+  url: /research/
+    
 
