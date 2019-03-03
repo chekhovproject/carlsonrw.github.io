@@ -25,7 +25,7 @@ RW Carlson & J Zaki
 
 ###### __2016__  
  
-[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464)  *SCAN*
+[**When is giving an impulse? An ERP investigation of intuitive prosocial behavior**.](https://academic.oup.com/scan/article/11/7/1121/1753464)  *SCAN*  
 RW Carlson, LB Aknin & M Liotti 
 
 
