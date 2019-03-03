@@ -6,4 +6,4 @@ author_profile: true
 ---
 This page is under construction.  
 
-![](https://raw.githubusercontent.com/carlsonrw/carlsonrw.github.io/master/images/waves.jpg)
+![](waves.jpg)
