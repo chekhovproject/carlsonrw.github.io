@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "publications"
     url: /publications/
     
-  - title: "CV"
+  - title: "cv"
     url: https://carlsonrw.github.io/_pages/Carlson_CV.pdf
     
-  - title: "Research Themes"
+  - title: "research"
     url: /research/
     
 
