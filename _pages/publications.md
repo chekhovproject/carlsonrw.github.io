@@ -6,9 +6,9 @@ author_profile: true
 ---
 `Preprints`  
   
-###### RW Carlson & J Zaki. [Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
+###### RW Carlson & J Zaki. [Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf) *PsyArXiv* 
   
-###### RW Carlson, B Oud, M Maréchal, E Fehr & MJ Crockett. [Motivated misremembering: Selfish decisions are more generous in hindsight.](https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf)  
+###### RW Carlson, B Oud, M Maréchal, E Fehr & MJ Crockett. [Motivated misremembering: Selfish decisions are more generous in hindsight.](https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf) *PsyArXiv* 
 
   
 --- 
