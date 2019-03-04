@@ -14,16 +14,16 @@ RW Carlson, B Oud, M Maréchal, E Fehr & MJ Crockett
 ###### __2018__  
  
 [**The lateral prefrontal cortex and moral goal pursuit**.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf)  
-RW Carlson & MJ Crockett  
+`RW Carlson & MJ Crockett`  
 *Current Opinion in Psychology* 
 
 [**Neural detection of socially valued community members**.](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true)  
 SA Morelli, YC Leong, RW Carlson, M Kullar & J Zaki  
-*PNAS*
+`PNAS`
  
 [**Good deeds gone bad: Lay theories of altruism and selfishness**.](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true)  
 RW Carlson & J Zaki  
-*Journal of Experimental Social Psychology*
+`Journal of Experimental Social Psychology`
 
 ###### __2016__  
   
