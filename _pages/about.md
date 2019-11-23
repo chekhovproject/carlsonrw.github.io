@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-`I'm a PhD student in Psychology at Yale University, primarily advised by Molly Crockett. I'm interested in what motivates people to engage in social behavior, as well as peoples' naïve theories of social motivation. I study these topics using theory and methods from social psychology, computer science, and neuroscience.`
+`I'm a PhD student in the Psychology Department at Yale University, primarily advised by Molly Crockett. I'm interested in the structure and content of human motivation, as well as peoples' intuitive theories of motivation. I typically study these topics using theory and methods in social psychology, computer science, and neuroscience.`
 
 
