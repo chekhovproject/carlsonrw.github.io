@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-`I'm a PhD student in the Psychology Department at Yale University, primarily advised by Molly Crockett. I'm interested in the structure and content of human motivation, as well as peoples' intuitive theories of motivation. I typically study these topics using theory and methods in social psychology, computer science, and neuroscience.`
+`I'm a PhD student in the Psychology Department at Yale University, primarily advised by Molly Crockett. I'm interested in the structure and content of human motivation, as well as peoples' intuitive theories of motivation. I study these topics using theory and methods in social psychology, computer science, and neuroscience.`
 
 
