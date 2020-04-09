@@ -9,7 +9,7 @@ author_profile: true
 [Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
 <sub>Carlson & Zaki (2019). *PsyArXiv* </sub>
   
-[Motivated misremembering: Selfish decisions are more generous in hindsight.](https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf)  
+[Motivated misremembering of selfish decisions.](https://www.researchgate.net/profile/Ryan_Carlson4/publication/330574904_Motivated_misremembering_selfish_decisions_are_more_generous_in_hindsight/links/5c4c87a9458515a4c7424ba6/Motivated-misremembering-selfish-decisions-are-more-generous-in-hindsight.pdf)  
 <sub>Carlson, Maréchal, Oud, Fehr & Crockett (2019). *PsyArXiv*  </sub>
 
   
