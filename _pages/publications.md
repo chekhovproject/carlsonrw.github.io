@@ -4,12 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 ---
-`preprints`  
-  
-[Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
-<sub>Carlson & Zaki (2019). *PsyArXiv* </sub>
-  
---- 
 `articles` 
 
 [Motivated misremembering of selfish decisions.](https://psyarxiv.com/7ck25/)  
@@ -26,8 +20,10 @@ author_profile: true
 
 [When is giving an impulse? An ERP study of intuitive prosocial behavior.](https://academic.oup.com/scan/article/11/7/1121/1753464)  
 <sub>Carlson, Aknin & Liotti (2016). *Social Cognitive and Affective Neuroscience*</sub>
-
-
+`preprints`  
+---  
+[Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
+<sub>Carlson & Zaki (2019). *PsyArXiv* </sub>
 
 
 
