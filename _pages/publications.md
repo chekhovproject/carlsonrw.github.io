@@ -3,12 +3,6 @@ title: "publications"
 permalink: /publications/
 author_profile: true
 ---
-`preprints`  
-
-[Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
-<sub>Carlson & Zaki. *PsyArXiv* </sub>
-
----
 `articles` 
 
 [Motivated misremembering of selfish decisions.](https://rdcu.be/b3UvR)  
