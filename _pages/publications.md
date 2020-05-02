@@ -14,7 +14,7 @@ author_profile: true
 
 `Neural detection of socially valued community members.`  
 <sub>Morelli, Leong, Carlson, Kullar & Zaki (2018).  
-*<b>PNAS</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_in%20press_PNAS.pdf?width=85%&height=85%&iframe=true)</sub>  
+*<b>PNAS</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true)</sub>  
  
 `Good deeds gone bad: Lay theories of altruism and selfishness.`    
 <sub>Carlson & Zaki (2018).  
