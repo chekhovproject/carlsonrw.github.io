@@ -17,7 +17,7 @@ author_profile: true
 
 `Neural detection of socially valued community members`  
 <sub>Morelli, Leong, Carlson, Kullar & Zaki (2018).  
-*<b>PNAS</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true)</sub>  
+*<b>Proceedings of the National Academy of Sciences</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true)</sub>  
  
 `When is giving an impulse? An ERP study of intuitive prosocial behavior`  
 <sub>Carlson, Aknin & Liotti (2016)  
