@@ -6,12 +6,12 @@ author_profile: true
 `preprints`  
 
 [Belief in altruistic motives predicts prosocial actions and inferences.](https://carlsonrw.github.io/_pages/belief_altMotives.pdf)  
-<sub>Carlson & Zaki (2019). *PsyArXiv* </sub>
+<sub>Carlson & Zaki. *PsyArXiv* </sub>
 
 ---
 `articles` 
 
-[Motivated misremembering of selfish decisions.](https://psyarxiv.com/7ck25/)  
+[Motivated misremembering of selfish decisions.](https://rdcu.be/b3UvR)  
 <sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020). *Nature Communications*  </sub>
  
 [The lateral prefrontal cortex and moral goal pursuit.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5bc8db67e5e5f0da97432b84/1539890024330/1-s2.0-S2352250X18300034-main.pdf)  
