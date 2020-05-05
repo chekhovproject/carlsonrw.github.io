@@ -4,19 +4,19 @@ author_profile: true
 ---
 `Motivated misremembering of selfish decisions`  
 <sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
-*<b>Nature Communications</b>* [[pdf]](https://rdcu.be/b3UvR) </sub>
+*<b>Nature Communications</b>* [[pdf]](https://rdcu.be/b3UvR) [[data/code]](https://osf.io/pzwt7/) </sub>
 
 ---
 
 `Good deeds gone bad: Lay theories of altruism and selfishness`    
 <sub>Carlson & Zaki (2018)  
-*<b>Journal of Experimental Social Psychology</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true)</sub>  
+*<b>Journal of Experimental Social Psychology</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true) [[data/code]](https://github.com/carlsonrw/layTheories_altruism)</sub>  
 
 ---
  
 `Neural detection of socially valued community members`  
 <sub>Morelli, Leong, Carlson, Kullar & Zaki (2018).  
-*<b>Proceedings of the National Academy of Sciences</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true)</sub>
+*<b>Proceedings of the National Academy of Sciences</b>* [[pdf]](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true) [[data/code]](https://github.com/esclabUIC/NetworkFMRI)</sub> 
 
 ---
  
