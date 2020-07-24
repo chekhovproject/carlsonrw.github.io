@@ -5,6 +5,17 @@ author_profile: true
 `Motivated misremembering of selfish decisions`  
 <sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
  *<b>Nature Communications</b>*  <br />[<b>[PDF]</b>](https://rdcu.be/b3UvR) [<b>[OSF]</b>](https://osf.io/pzwt7/) </sub>
+ 
+ 
+`Motivated misremembering of selfish decisions`  
+<sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
+ *<b>Nature Communications</b>*  [![pdf](https://raw.githubusercontent.com/carlsonrw/carlsonrw.github.io/master/images/pdf.png)](https://rdcu.be/b3UvR) | [![osf](https://raw.githubusercontent.com/carlsonrw/carlsonrw.github.io/master/images/osf.png)](https://osf.io/pzwt7/) </sub>
+ 
+ 
+ 
+ 
+
+
 
 ---
 
