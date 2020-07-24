@@ -6,16 +6,11 @@ author_profile: true
 <sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
  *<b>Nature Communications</b>*  <br />[<b>[PDF]</b>](https://rdcu.be/b3UvR) [<b>[OSF]</b>](https://osf.io/pzwt7/) </sub>
  
- 
-`Motivated misremembering of selfish decisions`  
-<sub>Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
- *<b>Nature Communications</b>*  [![pdf](https://raw.githubusercontent.com/carlsonrw/carlsonrw.github.io/master/images/pdf.png)](https://rdcu.be/b3UvR) | [![osf](https://raw.githubusercontent.com/carlsonrw/carlsonrw.github.io/master/images/osf.png)](https://osf.io/pzwt7/) </sub>
- 
- 
- 
- 
+---
 
-
+`Belief in altruistic motives predicts prosocial actions and inferences`    
+<sub>Carlson & Zaki (2019)  
+*<b>PsyArxiv</b>* <br />[<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[GitHub]</b>](https://github.com/carlsonrw/belief_altMotives)</sub>  
 
 ---
 
