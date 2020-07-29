@@ -4,11 +4,14 @@ author_profile: true
 ---
 
 
-Hello! Welcome to my CogSci 2020 landing site!
+
+![CogSci2020](/images/CogSci2020-Banner.png)
+
+<div align="center">Hello! Welcome to my CogSci 2020 poster site!</div>
   
 [<b>Poster Link</b>](https://carlsonrw.github.io/files/CogSci2020.pdf) 
 
-<b>Virtual Presentation Link</b> (Available on 7/30) 
+<b>Poster Video (Available here on 7/30) </b> 
  
 
 
