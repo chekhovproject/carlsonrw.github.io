@@ -11,7 +11,7 @@ Welcome to my CogSci 2020 poster page!
 
 [<b>Poster Link</b>](https://carlsonrw.github.io/files/CogSci2020.pdf)
 
+[<b>Video Link</b>](https://youtu.be/uHovq29z9ZE)
 
-<b>Video Link</b> https://youtu.be/uHovq29z9ZE
 
 
