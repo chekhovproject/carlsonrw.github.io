@@ -8,6 +8,12 @@ Carlson, Maréchal, Oud, Fehr & Crockett (2020)
  
 ---
 
+<sub><b>Building empathy through motivation-based interventions</b>   
+Weisz, Ong, Carlson, & Zaki (2020)  
+ *Emotion*  <br />[<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/weisz_empathyIntervention_inPress.pdf?) [<b>[OSF]</b>](https://osf.io/f4czb/) </sub>
+ 
+---
+
 <sub><b>Belief in altruistic motives predicts prosocial actions and inferences</b>     
 Carlson & Zaki (2019)  
 *PsyArxiv* <br />[<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[GitHub]</b>](https://github.com/carlsonrw/belief_altMotives)</sub>  
