@@ -5,7 +5,7 @@ author_profile: true
 
 
 
-![SNE2020](/images/SNE-logo.jpg)   
+![SNE2020](/images/SNE-Logo.jpg)   
 
 Welcome to my SNE 2020 poster page!  
 
