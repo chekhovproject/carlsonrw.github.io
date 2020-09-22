@@ -5,9 +5,9 @@ author_profile: true
 
 
 
-![CogSci2020](/images/CogSci2020-Banner.png)   
+![SNE2020](/images/SNE-logo.jpg)   
 
-Welcome to my CogSci 2020 poster page!  
+Welcome to my SNE 2020 poster page!  
 
 [<b>Poster Link</b>](https://carlsonrw.github.io/files/CogSci2020.pdf)
 
