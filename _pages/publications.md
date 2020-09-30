@@ -22,13 +22,13 @@ Carlson & Zaki (2019)
 
 <sub><b>Good deeds gone bad: Lay theories of altruism and selfishness</b>     
 Carlson & Zaki (2018)  
-*Journal of Experimental Social Psychology* <br />[<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/carlsonZaki_layTheories_inpress_0.pdf?width=85%&height=85%&iframe=true) [<b>[GitHub]</b>](https://github.com/carlsonrw/layTheories_altruism)</sub>  
+*Journal of Experimental Social Psychology* <br />[<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/carlson_2018_layTheories.pdf?width=85%&height=85%&iframe=true) [<b>[GitHub]</b>](https://github.com/carlsonrw/layTheories_altruism)</sub>  
 
 ---
  
 <sub><b>Neural detection of socially valued community members</b>    
 Morelli, Leong, Carlson, Kullar & Zaki (2018).  
-*Proceedings of the National Academy of Sciences*  <br />[<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/Morelli%20et%20al_2018_PNAS.pdf?width=85%&height=85%&iframe=true) [<b>[GitHub]</b>](https://github.com/esclabUIC/NetworkFMRI)</sub> 
+*Proceedings of the National Academy of Sciences*  <br />[<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/morelli_2018_valuedCommunity.pdf?width=85%&height=85%&iframe=true) [<b>[GitHub]</b>](https://github.com/esclabUIC/NetworkFMRI)</sub> 
 
 ---
  
