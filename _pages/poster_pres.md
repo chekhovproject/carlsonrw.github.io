@@ -9,6 +9,8 @@ author_profile: true
 
 Hi! Welcome to my SNE 2020 poster page. 
 
+Live Poster Session: Thursday 9:30am-11am ET
+
 [<b>Poster Link</b>](https://carlsonrw.github.io/files/SNE2020.pdf)
 
 [<b>Video Link</b>](https://youtu.be/uHovq29z9ZE)
