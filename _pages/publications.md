@@ -4,14 +4,11 @@ author_profile: true
 ---   
 `preprints`  
 
-<sub><b>A computational theory of flow</b>   
+<sub><b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/).</b>  
 Melnikoff, Carlson, & Stillman  
- *PsyArxiv* [<b>[PDF]</b>](https://psyarxiv.com/9q3jd/) 
 
-
-<sub><b>Belief in altruistic motives predicts prosocial actions and inferences</b>     
-Carlson & Zaki   
-*PsyArxiv* [<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[GitHub]</b>](https://github.com/carlsonrw/belief_altMotives)</sub>  
+<sub><b>[<b>Belief in altruistic motives predicts prosocial actions and inferences</b>](https://psyarxiv.com/sa6q8/).</b>  
+Carlson, & Zaki
   
   
  --- 
