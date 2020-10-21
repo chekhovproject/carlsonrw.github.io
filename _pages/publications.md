@@ -2,7 +2,6 @@
 permalink: /publications/
 author_profile: true
 ---   
----
 `working papers:`  
 
 <sub><b>A computational theory of flow</b>   
@@ -48,4 +47,3 @@ Carlson & Crockett (2018)
 Carlson, Aknin & Liotti (2016)  
 *Social Cognitive and Affective Neuroscience*  [<b>[PDF]</b>](https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf)</sub>  
 
----
