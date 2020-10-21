@@ -2,7 +2,7 @@
 permalink: /publications/
 author_profile: true
 ---   
-`working papers:`  
+`preprints`  
 
 <sub><b>A computational theory of flow</b>   
 Melnikoff, Carlson, & Stillman  
@@ -15,7 +15,7 @@ Carlson & Zaki
   
   
  --- 
-`publications:`
+`publications`
 
 
 <sub><b>Building empathy through motivation-based interventions</b>   
