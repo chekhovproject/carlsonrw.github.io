@@ -2,8 +2,8 @@
 permalink: /publications/
 author_profile: true
 ---   
-
-`working papers`    
+---
+`working papers:`  
 
 <sub><b>A computational theory of flow</b>   
 Melnikoff, Carlson, & Stillman  
@@ -15,8 +15,9 @@ Carlson & Zaki
 *PsyArxiv* [<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[GitHub]</b>](https://github.com/carlsonrw/belief_altMotives)</sub>  
   
   
-  
-`publications` 
+ --- 
+`publications:`
+
 
 <sub><b>Building empathy through motivation-based interventions</b>   
 Weisz, Ong, Carlson, & Zaki (2020)  
@@ -46,3 +47,5 @@ Carlson & Crockett (2018)
 <sub><b>When is giving an impulse? An ERP study of intuitive prosocial behavior</b>   
 Carlson, Aknin & Liotti (2016)  
 *Social Cognitive and Affective Neuroscience*  [<b>[PDF]</b>](https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf)</sub>  
+
+---
