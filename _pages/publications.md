@@ -8,7 +8,7 @@ author_profile: true
 Melnikoff, Carlson, & Stillman  
 
 <sub><b>[<b>Belief in altruistic motives predicts prosocial actions and inferences</b>](https://psyarxiv.com/sa6q8/)</b>  
-Carlson, & Zaki
+Carlson & Zaki
   
   
  --- 
