@@ -4,6 +4,9 @@ author_profile: true
 ---   
 `preprints`  
 
+<sub><b>Psychological selfishness</b>  
+Carlson, Adkins, Crockett, & Clark 
+  
 <sub><b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/)</b>  
 Melnikoff, Carlson, & Stillman  
 
