@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "publications"
+  - title: "[publications]"
     url: /publications/
     
-  - title: "cv"
+  - title: "[cv]"
     url: https://carlsonrw.github.io/_pages/Carlson_CV.pdf
     
 
