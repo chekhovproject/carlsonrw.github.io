@@ -24,7 +24,7 @@ Weisz, Ong, Carlson, & Zaki (2020)
  
 
 <sub><b>Motivated misremembering of selfish decisions</b>   
-Carlson, Maréchal, Oud, Fehr & Crockett (2020)  
+Carlson, Maréchal, Oud, Fehr, & Crockett (2020)  
  *Nature Communications*  [<b>[PDF]</b>](https://rdcu.be/b3UvR) [<b>[OSF]</b>](https://osf.io/pzwt7/) </sub>
  
 
@@ -34,7 +34,7 @@ Carlson & Zaki (2018)
 
  
 <sub><b>Neural detection of socially valued community members</b>    
- Morelli, Leong, Carlson, Kullar & Zaki (2018).  
+ Morelli, Leong, Carlson, Kullar, & Zaki (2018).  
 *Proceedings of the National Academy of Sciences*  [<b>[PDF]</b>](http://ssnl.stanford.edu/sites/default/files/pdf/morelli_2018_valuedCommunity.pdf?width=85%&height=85%&iframe=true) [<b>[GitHub]</b>](https://github.com/esclabUIC/NetworkFMRI)</sub> 
 
 
@@ -44,6 +44,6 @@ Carlson & Crockett (2018)
 
 
 <sub><b>When is giving an impulse? An ERP study of intuitive prosocial behavior</b>   
-Carlson, Aknin & Liotti (2016)  
+Carlson, Aknin, & Liotti (2016)  
 *Social Cognitive and Affective Neuroscience*  [<b>[PDF]</b>](https://academic.oup.com/scan/article-pdf/11/7/1121/27103123/nsv077.pdf)</sub>  
 
